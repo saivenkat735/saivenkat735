@@ -160,7 +160,7 @@ TensorFlow • Python • OpenCV
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=saivenkat735&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivenkat735E&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivenkat735&layout=compact&theme=tokyonight"/>
 
 </p>
 
