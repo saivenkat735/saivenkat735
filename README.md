@@ -180,9 +180,9 @@ TensorFlow • Python • OpenCV
 
 📧 Email: **venkatkarnati22@gmail.com**
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/sai-venkat-karnati-133b61206/)
 
-💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+💻 GitHub: [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/saivenkat735)
 
 ---
 
