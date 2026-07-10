@@ -158,9 +158,9 @@ TensorFlow • Python • OpenCV
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saivenkat735&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saivenkat735E&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -170,7 +170,7 @@ TensorFlow • Python • OpenCV
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=saivenkat735&theme=tokyonight"/>
 
 </p>
 
@@ -180,9 +180,9 @@ TensorFlow • Python • OpenCV
 
 📧 Email: **venkatkarnati22@gmail.com**
 
-💼 LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/sai-venkat-karnati-133b61206/)
+💼 LinkedIn: [https://linkedin.com/in/sai-venkat-karnati-133b61206](https://www.linkedin.com/in/sai-venkat-karnati-133b61206/)
 
-💻 GitHub: [https://github.com/YOUR_GITHUB_USERNAME](https://github.com/saivenkat735)
+💻 GitHub: [https://github.com/saivenkat735](https://github.com/saivenkat735)
 
 ---
 
